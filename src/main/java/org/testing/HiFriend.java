@@ -1,4 +1,4 @@
-package testing;
+package org.testing;
 
 public class HiFriend {
     public static void main(String[] args) {

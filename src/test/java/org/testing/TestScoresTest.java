@@ -1,4 +1,4 @@
-package testing;
+package org.testing;
 
 import java.util.Scanner;
 import org.junit.jupiter.api.Test;

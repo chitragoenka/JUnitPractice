@@ -1,4 +1,4 @@
-package testing;
+package org.testing;
 
 public class SumDouble {
 
